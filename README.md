@@ -19,3 +19,6 @@ Then, click the home button and add the `hardware` folder.
 Frontend: Electron + React 
 Hardware: Using C++ with PlatformIO's VSCode extension
 Hardware components: ESP32
+
+# Frontend UI
+<img width="402" height="597" alt="image" src="https://github.com/user-attachments/assets/44b2d2a2-393d-4a46-81ea-9e839a88f705" />
