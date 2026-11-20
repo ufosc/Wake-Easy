@@ -1,5 +1,6 @@
 import AlbumCover from '../components/AlbumCover'
 import MusicControls from '../components/MusicControls'
+import VolumeBar from '../components/VolumeBar'
 import './MusicPlayer.css'
 
 export default function MusicPlayer() {
@@ -12,6 +13,7 @@ export default function MusicPlayer() {
             </div>
 
             <MusicControls />
+            <VolumeBar />
         </div>
     )
 }
